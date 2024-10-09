@@ -1,0 +1,1 @@
+the release need to be merged to both master and develop branches
